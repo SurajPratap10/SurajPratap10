@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SurajPratap10
-- 👀 I’m interested in Learning and Implementing new things
-- 🌱 I’m currently learning JAVA and DevOps
+- I’m interested in Learning and Implementing new things
+- I’m currently learning JAVA and DevOps
 
 -
 

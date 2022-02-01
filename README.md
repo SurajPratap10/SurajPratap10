@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SurajPratap10
-- I’m interested in Learning and Implementing new things
-- I’m currently learning JAVA and DevOps
+👋 Hi, I’m @SurajPratap10
 
--
+Interested in Learning and Implementing new things
+
+
+
 
 <!---
 SurajPratap10/SurajPratap10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

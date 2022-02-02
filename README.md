@@ -2,6 +2,8 @@
 
 Interested in Learning and Implementing new things
 
+Currently Learning Web Development, DevOps and DSA
+
 
 
 

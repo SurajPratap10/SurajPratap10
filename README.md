@@ -14,7 +14,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a first year Enginnering student:wink:
-- 🌱 I’m currently learning DSA, DevOps and Web Developemnt. 
+- 🌱 I’m currently learning DSA , DevOps and Web Developemnt. 
 - 💬 Ask me about anything, I am happy to help.
 
 

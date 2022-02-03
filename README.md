@@ -25,8 +25,7 @@
 
 <h1 align="center">Find me on 🔍</h1>
 
-<p align="center">
-  
+
   
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SurajPratap10)

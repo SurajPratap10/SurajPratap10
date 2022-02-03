@@ -15,15 +15,35 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 
----
+<hr/>
 
-[![Suraj Pratap github activity graph](https://activity-graph.herokuapp.com/graph?username=SurajPratap10&theme=react-dark)](https://github.com/SurajPratap10/github-readme-activity-graph)
+<h2 align="center">Find me on</h2>
 
----
-
+<p align="center">
+  
+  
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SurajPratap10)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-pratap-948a92225/)
+
+
+
+ 
+<hr/>
+
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+<p align="center">
+  Made with ❤️ in Bihar
+</p>
+
+-----
+Credits: [Suraj Pratap](https://github.com/SurajPratap10)
+
+Last Edited on: 03/02/2022
+
 
 
 

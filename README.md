@@ -23,7 +23,7 @@
 
 <hr>
 
-<h1 align="center">Find me on 🔍</h1>
+<h1 align="center">Connect:</h1>
 
 
   

@@ -20,7 +20,7 @@
 
 
 
---
+<hr>
 
 <h1 align="center">Find me on 🔍</h1>
 

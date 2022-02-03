@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Java , DevOps and Web Developemnt. 
 - 💬 Ask me about anything, I am happy to help.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+
 
 
 

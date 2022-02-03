@@ -9,6 +9,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a first year Enginnering student:wink:

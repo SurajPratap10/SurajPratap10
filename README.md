@@ -7,5 +7,5 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPratap10&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+
 

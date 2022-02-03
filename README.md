@@ -15,6 +15,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+---
+
 [![Suraj Pratap github activity graph](https://activity-graph.herokuapp.com/graph?username=SurajPratap10&theme=react-dark)](https://github.com/SurajPratap10/github-readme-activity-graph)
 
 

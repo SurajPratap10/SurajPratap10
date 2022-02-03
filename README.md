@@ -15,12 +15,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+[![Suraj Pratap github activity graph](https://activity-graph.herokuapp.com/graph?username=SurajPratap10&theme=react-dark)](https://github.com/SurajPratap10/github-readme-activity-graph)
+
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SurajPratap10)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-pratap-948a92225/)
 
 
 
 
-
-[![Suraj Pratap github activity graph](https://activity-graph.herokuapp.com/graph?username=SurajPratap10&theme=react-dark)](https://github.com/SurajPratap10/github-readme-activity-graph)
 

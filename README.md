@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <h1>INDIA</h1>
+  INDIA
 </p>
 
 -----

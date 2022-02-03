@@ -25,7 +25,7 @@
 
 <hr>
 
-<h1 align="right">Connect:</h1>
+<h1 align="center">Connect:</h1>
 
 
   

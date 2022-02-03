@@ -13,7 +13,7 @@
 - 👨🏽‍💻 I’m a first year Enginnering student:wink:;
 - 🌱 I’m currently learning Java , DevOps and Web Developemnt; 
 - 💬 Ask me about anything, I am happy to help and;
-- 
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 

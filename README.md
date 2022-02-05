@@ -20,8 +20,10 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/> 
-<img src = "https://github-readme-stats.vercel.app/api?username=SurajPratap10&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=18">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/>
+  
+  
+<img src = "https://github-readme-stats.vercel.app/api?username=SurajPratap10&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=28">
 </p>
 
 

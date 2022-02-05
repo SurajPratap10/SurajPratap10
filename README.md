@@ -17,6 +17,9 @@
 - 🌱 I’m currently learning DSA , DevOps and Web Developemnt. 
 - 💬 Ask me about anything, I am happy to help.
 
+
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/></p>
 
 

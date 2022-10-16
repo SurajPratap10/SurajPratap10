@@ -52,7 +52,6 @@
    INDIA
 </p>
 
-<h2>HACKTOBER FEST - 2022<h2>
 [![@suraj_pratap's Holopin board](https://holopin.me/suraj_pratap)](https://holopin.io/@suraj_pratap)
 
 

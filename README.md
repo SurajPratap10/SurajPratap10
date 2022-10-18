@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Suraj Pratap </h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
+
+![gh-banner](https://user-images.githubusercontent.com/28717686/191666992-1004b8a9-173f-4575-b299-449dc0331949.png)
 <p align="center" width="150px"> I have just kickstarted my career as a ECE student in VIT Vellore. <br> Here to contribute in Open Source projects and learn new things on the go.</p>
 
 <p align="center"><b>Visitor's Count</b></p>

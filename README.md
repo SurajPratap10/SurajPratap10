@@ -4,8 +4,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 
-![gh-banner](https://user-images.githubusercontent.com/Suraj Pratap.png)
-
 <p align="center" width="150px"> I have just kickstarted my career as a ECE student in VIT Vellore. <br> Here to contribute in Open Source projects and learn new things on the go.</p>
 
 <p align="center"><b>Visitor's Count</b></p>

@@ -22,6 +22,7 @@
   <a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
   
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+[![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurajPratap10&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPratap10&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/</p>
 

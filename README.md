@@ -8,7 +8,7 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 
- <a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
+<h2 align="center> <a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
  
 <p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
 

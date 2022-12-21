@@ -7,6 +7,9 @@
 <p align="center" width="150px"> I have just kickstarted my career as a ECE student in VIT Vellore. <br> Here to contribute in Open Source projects and learn new things on the go.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
+
+ <a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
+ 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
 
 
@@ -19,7 +22,6 @@
 - 💬 Ask me about anything, I am happy to help.
 
 
- <a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/</p>

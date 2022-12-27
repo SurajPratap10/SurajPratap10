@@ -21,7 +21,7 @@
 - 💬 Ask me about anything, I am happy to help.
 
 
-<a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
+ <a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a> &nbsp;&nbsp;&nbsp;
  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/</p>

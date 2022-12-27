@@ -31,22 +31,16 @@
 
 
 
-
 <hr>
-
-<h1 align="center">Connect:</h1>
-
-
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/suraj-pratap-948a92225/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:surajpratap20002003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/SurajPratap10" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
   
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SurajPratap10)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-pratap-948a92225/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:surajpratap20002003@gmail.com)
-
-
-
- 
-<hr/>
+<Br>
+<hr>
 
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>

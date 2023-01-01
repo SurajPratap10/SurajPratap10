@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning DSA , DevOps and Web Developemnt. 
 - 💬 Ask me about anything, I am happy to help.
 
+**My Github Stats:**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/</p>
 
  <hr>
@@ -74,7 +75,7 @@
 </p>
 
 <p align="center">
-   INDIA
+   <h2>INDIA </h2>
 </p>
 
 [![@suraj_pratap's Holopin board](https://holopin.me/suraj_pratap)](https://holopin.io/@suraj_pratap)

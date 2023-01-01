@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-   <h2>INDIA </h2>
+   INDIA
 </p>
 
 [![@suraj_pratap's Holopin board](https://holopin.me/suraj_pratap)](https://holopin.io/@suraj_pratap)

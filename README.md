@@ -19,8 +19,11 @@
 - 👨🏽‍💻 I’m a second year Enginnering student:wink:
 - 🌱 I’m currently learning DSA , DevOps and Web Developemnt. 
 - 💬 Ask me about anything, I am happy to help.
-
+<br>
+<hr>
 **My Github Stats:**
+<br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/</p>
 
  <hr>

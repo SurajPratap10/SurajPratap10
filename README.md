@@ -2,15 +2,18 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Suraj Pratap </h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
-
-
+<br>
+<p align="right">
+  <a align="center" href="https://github.com/SurajPratap10/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
+ <br>
 <p align="center" width="150px"> I have just kickstarted my career as a ECE student in VIT Vellore. <br> Here to contribute in Open Source projects and learn new things on the go.</p>
-
+</p>
+<br>
 <p align="center"><b>Visitor's Count</b></p>
 
  
 <p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
-
+<br>
 
 
 
@@ -25,7 +28,11 @@
 **My Github Stats:**
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajPratap10" alt="SurajPratap10"/</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SurajPratap10&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SurajPratap10&show_icons=true&theme=react" width="400px" alt="Stats image">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajPratap10&theme=react&layout=compact" width="400px" alt="Language stats image">
+
 
  <hr>
  <Br>

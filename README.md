@@ -37,7 +37,7 @@
  <hr>
  <Br>
  
-**Languages and Tools:**
+   <h3>Languages and Tools: </h3>
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>

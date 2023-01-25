@@ -22,7 +22,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a second year Enginnering student:wink:
+- 👨🏽‍💻 I’m a second year Enginnering student.
 - 🌱 I’m currently learning DSA , DevOps and Web Developemnt. 
 - 💬 Ask me about anything, I am happy to help.
 <br>

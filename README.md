@@ -1,11 +1,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Suraj Pratap </h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
-<br>
+
 <p align="right">
-  <a align="center" href="https://github.com/SurajPratap10/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Open+Source+Contributor;Tech+Enthusiast;ECE+Undergrad" />
  <br>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<br>
 <p align="center" width="150px"> I have just kickstarted my career as a ECE student in VIT Vellore. <br> Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>
 <br>

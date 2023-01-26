@@ -20,12 +20,18 @@
 
 
 
-**Talking about Personal Stuffs:**
+**Talking about Technical Stuffs:**
 
 - 👨🏽‍💻 I’m a second year Enginnering student.
 - 🌱 I’m currently learning DSA , DevOps and Full Stack Development. 
 - 💬 Ask me about anything, I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
+<br>
+
+**My Absolute Favorites:**
+- 💻 I love exploring new tech stack and building cool stuffs.
+- 📰 Reading & writing tech blogs whenever possible.
+- 🍕 Hackathons, meetups & tech events.
 <br>
 <hr>
 

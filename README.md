@@ -34,7 +34,7 @@
 - 📰 Reading & writing tech blogs whenever possible.
 - ⚡ Hackathons, meetups & tech events.
 - 🎮 Playing video games.
-<br>
+
 <hr>
 
 **My Github Stats:**

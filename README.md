@@ -53,7 +53,7 @@
 <h3>Productivity Stats: </h3>
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajPratap10&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajPratap10&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
 </table>
  <hr>

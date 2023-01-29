@@ -95,7 +95,7 @@
 <hr>
 
 
-<h3 align="center">My Portfolio Website</h3>
+<h2 align="center">My Portfolio Website</h2>
 <br>
 <br>
 <a target="__blank" href="https://suraj-portfolio-d12000.netlify.app/" align="center"><img align="center" src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a> &nbsp;&nbsp;&nbsp;
@@ -105,7 +105,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/img.jpg"></p>
 <p align="left"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/Screenshot 2023-01-29 204653.png"> &nbsp;&nbsp;&nbsp;
 <img align="right" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/Screenshot 2023-01-29 205205.png">
-
+<br>
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>

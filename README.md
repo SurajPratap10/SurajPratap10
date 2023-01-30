@@ -130,7 +130,7 @@
 <br>
  <br>
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;😄" />
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%c8a2c8&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA😄" />
 
 -----
 Credits: [Suraj Pratap](https://github.com/SurajPratap10)

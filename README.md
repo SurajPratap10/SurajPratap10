@@ -125,7 +125,11 @@
 </p>
 
 [![@suraj_pratap's Holopin board](https://holopin.me/suraj_pratap)](https://holopin.io/@suraj_pratap)
-
+<br>
+<br>
+ <br>
+<p align="right">
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;😄" />
 
 -----
 Credits: [Suraj Pratap](https://github.com/SurajPratap10)

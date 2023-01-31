@@ -103,9 +103,9 @@
 <br>
 <br>
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/img.jpg"></p>
-<p align="left"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/Screenshot 2023-01-29 204653.png"> &nbsp;&nbsp;&nbsp;
-<img align="right" src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/Screenshot 2023-01-29 205205.png">
+
+<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/w3.jpg"> &nbsp;&nbsp;&nbsp;
+
 <br>
 <hr>
 <Br>

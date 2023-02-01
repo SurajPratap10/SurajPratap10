@@ -49,7 +49,7 @@
 
 <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SurajPratap10&theme=react&hide_border=true" />
  <br>
-<img src="https://github-profile-trophy.vercel.app/?username=SurajPratap10&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+<img src="https://github-profile-trophy.vercel.app/?username=SurajPratap10&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="SurajPratap10" width=200% height=100%/>
 <hr>
 <br>
 <h3>Productivity Stats: </h3>

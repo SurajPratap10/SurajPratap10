@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning DSA , DevOps and Full Stack Development. 
 - 💬 Ask me about anything, I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
-- 📝 Do checkout my [Resume](https://github.com/SurajPratap10/SurajPratap10/blob/master/resume.pdf).
+- 📝 Do checkout my [Resume](https://github.com/SurajPratap10/SurajPratap10/blob/master/Resume.pdf).
 <br>
 
 **My Absolute Favorites:**

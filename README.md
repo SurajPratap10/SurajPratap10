@@ -10,7 +10,7 @@
 <p align="center" width="150px"> I have just kickstarted my career as a ECE student in VIT Vellore. <br> Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>
 <br>
-<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><b>Profile Views</b></p>
 
  
 <p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>

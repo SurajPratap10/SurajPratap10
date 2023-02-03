@@ -128,7 +128,7 @@
 [![@suraj_pratap's Holopin board](https://holopin.me/suraj_pratap)](https://holopin.io/@suraj_pratap)
 <br>
 <br>
- <br>
+<br>
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

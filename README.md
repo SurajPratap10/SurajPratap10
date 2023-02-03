@@ -104,7 +104,7 @@
 <br>
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/w3.jpg"> &nbsp;&nbsp;&nbsp;
+<p align="center"><img src="portfoli1.png"> &nbsp;&nbsp;&nbsp;
 
 <br>
 <hr>

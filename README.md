@@ -122,7 +122,7 @@
 </p>
 
 <p align="center">
-   INDIA
+  <h3> INDIA </h3>
 </p>
 
 [![@suraj_pratap's Holopin board](https://holopin.me/suraj_pratap)](https://holopin.io/@suraj_pratap)

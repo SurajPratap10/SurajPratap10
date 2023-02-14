@@ -7,7 +7,7 @@
  <br>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 <br>
-<p align="center" width="150px"> I have just kickstarted my career as a ECE student in VIT Vellore. <br> Here to contribute in Open Source projects and learn new things on the go.</p>
+<p align="center" width="150px">I am currently a Second Year student at VIT Vellore pursuing my B Tech degree in Electronics and Communication Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>
@@ -139,7 +139,7 @@
 -----
 Credits: [Suraj Pratap](https://github.com/SurajPratap10)
 
-Last Edited on: 13/02/2023
+Last Edited on: 14/02/2023
 
 
 

@@ -104,7 +104,7 @@
 <br>
 <br>
 
-<p align="center"><img src="Portfolio1.png"> &nbsp;&nbsp;&nbsp;
+<p align="center"><img src="PortfolioPic.jpg"> &nbsp;&nbsp;&nbsp;
 
 <br>
 <hr>

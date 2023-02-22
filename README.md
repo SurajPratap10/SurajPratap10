@@ -16,8 +16,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
 <br>
 
-
-
+<p align = "left">
+<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
 
 
 **Talking about Technical Stuffs:**

@@ -137,7 +137,7 @@
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA😄" />
 
 -----
-Credits: [Suraj Pratap](https://github.com/SurajPratap10)
+Credits: [Suraj Pratap] (https://github.com/SurajPratap10)
 
 Last Edited on: 07/03/2023 
  

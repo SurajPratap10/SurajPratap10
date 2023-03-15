@@ -31,7 +31,7 @@
 
 **My Absolute Favorites:**
 - 💻 I love exploring new tech stack and building cool stuffs.
-- 📰 Reading & writing tech blogs whenever possible.
+- 📰 Reading & writing tech blogs on Hashnode.
 - ⚡ Hackathons, meetups & tech events.
 - 🎮 Playing video games.
 - 🎵 Listening to Music.

@@ -5,7 +5,8 @@
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Open+Source+Contributor;Tech+Enthusiast;ECE+Undergrad" />
  <br>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 <br>
 <p align="center" width="150px">I am currently a Second Year student at VIT Vellore pursuing my B Tech degree in Electronics and Communication Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>

@@ -105,7 +105,7 @@
 <br>
 <br>
 
-<p align="center"><img src="ppic.jpg"> &nbsp;&nbsp;&nbsp;
+<p align="center"><img src="https://user-images.githubusercontent.com/92919173/229302628-7273ad22-50fd-4397-9739-33bd4de98621.jpg"> &nbsp;&nbsp;&nbsp;
 
 <br>
 <hr>

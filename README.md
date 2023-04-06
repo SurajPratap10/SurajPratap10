@@ -1,10 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/Hi.gif" width="20px">, I am Suraj Pratap </h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/Hi.gif" width="20px">, I am Suraj Pratap</h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Open+Source+Contributor;Tech+Enthusiast;ECE+Undergrad" />
- <br>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;Open+Source+Contributor;Tech+Enthusiast;ECE+Undergrad"/>
+<br>
+  
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
@@ -140,7 +141,7 @@
 -----
 Credits: [Suraj Pratap](https://github.com/SurajPratap10)
 
-Last Edited on: 29/03/2023 
+Last Edited on: 06/04/2023 
  
 
 

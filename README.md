@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">I am currently a Second Year student at VIT Vellore pursuing my B.Tech degree in Electronics and Communication Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
+<p align="center" width="150px">I am currently a Third Year student at VIT Vellore pursuing my B.Tech degree in Electronics and Communication Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>

@@ -54,7 +54,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SurajPratap10&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="SurajPratap10" width=200% height=100%/>
 <hr>
 <br>
-<h3>Productivity Stats: </h3>
+<h3>Productivity Stats:</h3>
 <table>
   <tr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajPratap10&theme=monokai"  display=block width=100% height=auto  alt="1" >

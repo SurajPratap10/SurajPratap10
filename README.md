@@ -61,7 +61,8 @@
 
 </table>
 <h3>GitHub | Dependencies: </h3>
-<img src="https://stats.quine.sh/SurajPratap10/dependencies?theme=dark  https://quine.sh?utm_source=widgets&utm_campaign=SurajPratap10"> <Br>
+<img src="https://stats.quine.sh/SurajPratap10/dependencies?theme=dark?https://quine.sh?utm_source=widgets&utm_campaign=SurajPratap10" display=block width=100% height=auto alt="1"> 
+<Br>
  <hr>
  
 <h3>Languages and Tools: </h3>

@@ -24,7 +24,7 @@
 
 **Talking about Technical Stuffs:**
 
-- 👨🏽‍💻 I’m a second year Enginnering student.
+- 👨🏽‍💻 I’m a third year enginnering student.
 - 🌱 I’m currently learning DSA , DevOps and Full Stack Development. 
 - 💬 Ask me about anything, I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.

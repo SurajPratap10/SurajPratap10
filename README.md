@@ -9,7 +9,8 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">I am currently a Final Year student at VIT Vellore pursuing my B.Tech degree in Electronics and Communication Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
+<p align="center" width="150px">
+I am a B.Tech graduate from VIT Vellore in Electronics and Communication Engineering, currently working as an SDE-1 in at Murf AI, passionate about contributing to open-source projects and continuously learning new things.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>
@@ -24,12 +25,12 @@
 
 **Talking about Technical Stuffs:**
 
-- 👨🏽‍💻 I’m a third year enginnering student.
-- 🌱 I’m currently learning DSA , DevOps and Full Stack Development. 
-- 💬 Ask me about anything, I am happy to help.
-- 👾 Fun fact: Equal is Not Always Equal in Javascript.
-- 📝 Do checkout my [Resume](https://drive.google.com/file/d/1Bf2xBQtrwGo5mtgJtNHjDVsjF_7MCzbq/view?usp=sharing)
-<br>
+- 👨🏽‍💻 I’m working as an SDE-1.  
+- 🌱 Currently exploring DSA, DevOps, and advanced Full Stack Development.  
+- 💬 Ask me about web development, open-source, or cloud tech — I’m happy to help.  
+- 👾 Fun fact: In JavaScript, `==` and `===` are not the same.  
+- 📝 Check out my [Resume](https://drive.google.com/file/d/1Bf2xBQtrwGo5mtgJtNHjDVsjF_7MCzbq/view?usp=sharing)
+  <br>
 
 **My Absolute Favorites:**
 - 💻 I love exploring new tech stack and building cool stuffs.

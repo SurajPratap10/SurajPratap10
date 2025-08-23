@@ -17,7 +17,7 @@ I am a B.Tech graduate from VIT Vellore in Electronics and Communication Enginee
 
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-50k-blue" alt="visitor badge"/>
+  <img src="https://img.shields.io/badge/Visitors-50052-blue" alt="visitor badge"/>
 </p>
 <br>
 

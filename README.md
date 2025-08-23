@@ -17,7 +17,7 @@ I am a B.Tech graduate from VIT Vellore in Electronics and Communication Enginee
 
  
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=Visitors" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SurajPratap10&left_text=Visitors" alt="visitor badge"/>
 </p>
 <br>
 

@@ -64,10 +64,7 @@ I am a B.Tech graduate from VIT Vellore in Electronics and Communication Enginee
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajPratap10&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
 </table>
-<h3>GitHub | Dependencies: </h3>
-<img src="https://stats.quine.sh/SurajPratap10/dependencies?theme=dark?https://quine.sh?utm_source=widgets&utm_campaign=SurajPratap10" display=block width=100% height=auto alt="1"> 
-<Br>
- <hr>
+<hr>
  
 <h3>Languages and Tools: </h3>
 

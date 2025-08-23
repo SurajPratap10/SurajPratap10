@@ -16,7 +16,9 @@ I am a B.Tech graduate from VIT Vellore in Electronics and Communication Enginee
 <p align="center"><b>Profile Views</b></p>
 
  
-<p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=Visitors" alt="visitor badge"/>
+</p>
 <br>
 
 <p align = "left">

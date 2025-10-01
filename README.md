@@ -10,7 +10,7 @@
 
 <br>
 <p align="center" width="150px">
-I am a B.Tech graduate from VIT Vellore in Electronics and Communication Engineering, currently working as a SDE-1 at Murf AI, passionate about contributing to open-source projects and continuously learning new things.</p>
+I’m currently working as an SDE-1 at Murf AI, where I focus on building impactful solutions and growing my expertise as a developer. I hold a B.Tech degree in Electronics and Communication Engineering from VIT Vellore. I’m passionate about contributing to open-source projects and committed to continuously learning and exploring new technologies.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>

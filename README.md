@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Suraj Pratap</h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;ECE+Undergrad"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast"/>
 <br>
   
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">

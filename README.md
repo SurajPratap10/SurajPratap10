@@ -17,7 +17,7 @@ I’m currently working as an SDE-1 at Murf AI, where I focus on building impact
 
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-50052-blue" alt="visitor badge"/>
+  <img src="https://img.shields.io/badge/Visitors-52334-blue" alt="visitor badge"/>
 </p>
 <br>
 
